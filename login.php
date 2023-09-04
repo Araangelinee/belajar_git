@@ -5,3 +5,8 @@ password
 button login
 hint lupa password
 register
+<php?>
+<P> 
+hello world!
+</P>
+<?php>
